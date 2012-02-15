@@ -1,9 +1,6 @@
 ---
 layout: post
 title: On Purchasing Shampoo
-permalink: on-purchasing-shampoo.html
-date: 2012-02-14 20:28:01 -06:00
-tags: "life", "humor"
 ---
 
 Last week, as I stood underneath one of the three water spigots installed in my apartment, I noticed that the bottle containing the chemical product I dump in my hair was rather light. This indicated that it was almost empty, so I set off to the nearest purveyor of fine retail goods.
