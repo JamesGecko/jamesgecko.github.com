@@ -1,4 +1,3 @@
 auto: false
 markdown: kramdown
 exclude: ['Rakefile']
-#url_root: http://laptopwindows.jamesgecko.operaunite.com/webserver/content
