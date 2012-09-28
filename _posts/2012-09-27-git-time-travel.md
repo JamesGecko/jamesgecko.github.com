@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Git and Other Time Machines
 tags:
 - dev
