@@ -21,14 +21,14 @@ Contains _The Borders of Infinity_, _Brothers in Arms_, and _Mirror Dance_.
 #### Memory
 This isn't in an omnibus, isn't on the CD, and is really important. Surprise! Go give Ms. Bujold money.
 
-#### Miles, Mutants & Microbes
-Contains _Falling Free_ (set 100 years before Miles is born), _Labyrinth_ (again!) and _Diplomatic Immunity_. This is also an acceptable starting point, in my humble opinion.
-
 #### Miles in Love
 Contains _Komarr_, _A Civil Campaign_, and _Winter Fair Gifts_
 
+#### Miles, Mutants & Microbes
+Contains _Falling Free_ (set 100 years before Miles is born), _Labyrinth_ (again!) and _Diplomatic Immunity_. This is also an acceptable starting point, in my humble opinion.
+
 #### Captain Vorpatril's Alliance
-Unpublished at the time of writing. But what if you've read everything before this point? Like one of [Pratchett's auditors](http://en.wikipedia.org/wiki/Auditors_of_Reality), you'll have to stop here, flailing helplessly (but logically!) before preceding. Oh, cruel fate! Etc.
+A standalone title about Ivan You Idiot. Unpublished at the time of writing (edit: It's out!). But what if you've read everything before this point? Like one of [Pratchett's auditors](http://en.wikipedia.org/wiki/Auditors_of_Reality), you'll have to stop here, flailing helplessly (but logically!) before preceding. Oh, cruel fate! Etc.
 
 #### Cryoburn
 You escaped the logic trap. What are you, a human? A time traveler? Anyway, this is the latest. One of the best. I started here. Read this.
