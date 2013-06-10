@@ -1,8 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>resume</title>
-
-<style type="text/css">
 /* Based on GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
 /* Original Author: Nicolas Hery - http://nicolashery.com */
 /* Based on Version: 29d1c5bc36da364ad5aa86946d420b7bbc54a253 */
@@ -278,69 +273,37 @@ img {
   text-align: center;
 }
 
-.tags ul {
-  padding-left: 0px;
-  float: left;
+.job {
+  border-bottom: 1px dashed gray;
+  margin: 5px, 0px, 0px, 5px;
 }
 
-.tags li{
+ul.tags{
+  list-style: none;
+  padding: 0;
+  /*margin: -10px 0 20px;*/
+}
+
+.tags > li {
   color: #FFFFFF;
   background-color: #0971B2;
-  border-radius: 5px;
-  float: left;
-  margin: 0 5px;
-  padding: 0px, 3px, 0px;
+  border: 2px solid #0971B2;
   font-size: 0.9em;
+  display: inline;
 }
 
-</style>
-<!--<base href="file:\\\C:\Users\James\Dropbox\">--><base href=".">
-</head>
-<body>
-<h1>James E. Denton</h1>
-<p id="contact-info">
-  867 Tab Roberts Road |
-  Lawrenceville, GA 30043 |
-  (678) 551-2713 |
-  <a href="mailto:jamesgecko@gmail.com">jamesgecko@gmail.com</a>
-</p>
+.triangle {
+  float: left;
+}
 
-<h3>Technical Skills:</h3>
-<p>
-  <strong>Languages</strong>: Ruby, Javascript, Python<br>
-  <strong>Technologies</strong>: Rails, Backbone.js, Twisted<br>
-  <strong>Tools</strong>: Vim, git, Vagrant<br>
-  <strong>Platforms</strong>: Linux (Ubuntu), OS X, Windows<br>
-  <strong>Been a while</strong>: PHP, C++, OpenGL/Freeglut, Java  
-</p>
+.short {
+  padding-left: 20px;
+  cursor: pointer;
+  background-color: #dfdfdf;
+}
 
-<h3>Experience:</h3>
-<p><strong>Tapjoy</strong> - <em>Developer (September 2012 - June 2013)</em><br>
-Wrote features and tools for a large Rails application. (Ruby on Rails, Backbone.js)</p>
-<p><strong>Advantage Information Systems</strong> - <em>Developer (July 2010 - July 2012)</em><br>
-An eclectic mix of web development, utility development, and IT. (PHP, Python, Ruby, VBA)</p>
-<p><strong>AbiSource</strong> - <em>Google Summer of Code Student Intern (May - August 2009)</em><br>
-Coded initial work implementing double buffering using the Cairo graphics library in the open source word processor AbiWord.  (C++)</p>
-<p><strong>AbiSource</strong> - <em>Google Summer of Code Student Intern (May - August 2008)</em><br>
-Coded a multi-page view feature that is in the AbiWord 2.8 stable release.  (C++)</p>
-
-<h3>Education:</h3>
-<p>
-  B.S. Computer Science (May 2010)<br>
-  LeTourneau University (Longview, TX)<br>
-  President's Scholarship (2006-2008)
-</p>
-
-<h3>Other Activities:</h3>
-<ul>
-  <li><strong>Association of Computer Machinery</strong>. President of LeTU chapter 2009-2010; active since 2006.  Introduced LeTU’s 1st annual Codeathon game development party; open to all students.</li>
-  <li><strong>Personal blog on technology topics</strong> (<a href="http://jamesgecko.com/">http://jamesgecko.com</a>) (2005-present, occasional)</li>
-  <li>Active in <strong>LeTourneau's student leadership program</strong>. Co-planned and executed activities for incoming freshmen to ease their transition. (Summer-Fall 2008).</li>
-  <li><strong>Eagle Scout</strong> (2005). Assistant Scoutmaster, Troop 594, Buford, GA (2005-2006).  Red Cross first aid certified (2005-2007).</li>
-  <li><strong>FIRST Vex Robotics team 40</strong> Member (2004-05 academic year); Student leader (2005-06).</li>
-</ul>
-
-
-
-<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->
-</body></html>
+.long {
+  padding-left: 20px;
+  cursor: pointer;
+  background-color: #dfdfdf;
+}
