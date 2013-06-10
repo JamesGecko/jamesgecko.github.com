@@ -295,10 +295,11 @@ ul.tags{
 
 .triangle {
   float: left;
+  padding: 5px 0 5px 5px;
 }
 
 .short {
-  padding: 5px 0 5px 20px;
+  padding: 5px 0 5px 25px;
   cursor: pointer;
   background-color: #dfdfdf;
   margin: 0 0;
@@ -309,7 +310,7 @@ ul.tags{
 }
 
 .long {
-  padding: 10px 0 5px 20px;
+  padding: 10px 0 5px 25px;
   cursor: pointer;
   background-color: #dfdfdf;
   display: none;
