@@ -298,13 +298,18 @@ ul.tags{
 }
 
 .short {
-  padding-left: 20px;
+  padding: 5px 0 5px 20px;
   cursor: pointer;
   background-color: #dfdfdf;
+  margin: 0 0;
+}
+
+.long p {
+  margin: 0 0 15px 0;
 }
 
 .long {
-  padding-left: 20px;
+  padding: 10px 0 5px 20px;
   cursor: pointer;
   background-color: #dfdfdf;
   display: none;
