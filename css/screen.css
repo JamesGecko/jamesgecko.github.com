@@ -173,3 +173,9 @@ code {
     background: #f8f8f8;
     font: 13px/1.4em Menlo, monospace
 }
+
+blockquote {
+    padding-left: 30px;
+    border-left: #d3d3d3 solid 3px;
+    color: #404040;
+}
