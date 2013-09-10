@@ -21,12 +21,14 @@ Magic is released quarterly. There is a core set release every year, followed by
 * 264 Flashback, Transform, Fight, Morbid. Double faced cards
 * 158 Fateful hour, Undying
 * 244 Miracle, Soulbound, Loners, Flickering
+
 (915 cards, 13 new mechanics in 2012)
 
 * 249 Exalted
 * 274 Detain, Overload, Populate, Scavenge, Unleash
 * 249 Battalion, Bloodrush, Cipher, Evolve, Extort
 * 156 Fuse
+
 (928 cards, 12 new mechanics in 2013)
 
 That's 1843 cards and 25 game mechanics on top of the basic Magic ruleset. Cards must be balanced not only against cards which will not be valid for part of the set's life, but also against cards which do not exist yet. There’s huge turnover between any two years; even the core set receives significant updates. This keeps the game fresh, but I’m unconvinced that it keeps it balanced.
